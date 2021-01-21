@@ -25,7 +25,7 @@ List bonuses
 - Bonus 2
 
 ## Submission Guidelines
-- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-1-25/Pull-Request-Template)
+- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-1-25/template_pull_request)
 
 ## Resources
 - [Lesson 1]()
